@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="6" total="12" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-15T09:04:59 IST" name="Suite" finished-at="2022-07-15T09:04:59 IST" duration-ms="54">
+    <groups>
+      <group name="Apple">
+        <method signature="groups.apple1()[pri:0, instance:Testng.groups@7adda9cc]" name="apple1" class="Testng.groups"/>
+        <method signature="groups.apple2()[pri:0, instance:Testng.groups@7adda9cc]" name="apple2" class="Testng.groups"/>
+        <method signature="groups.apple3()[pri:0, instance:Testng.groups@7adda9cc]" name="apple3" class="Testng.groups"/>
+      </group> <!-- Apple -->
+      <group name="MI">
+        <method signature="groups.mi1()[pri:0, instance:Testng.groups@7adda9cc]" name="mi1" class="Testng.groups"/>
+        <method signature="groups.mi2()[pri:0, instance:Testng.groups@7adda9cc]" name="mi2" class="Testng.groups"/>
+        <method signature="groups.mi3()[pri:0, instance:Testng.groups@7adda9cc]" name="mi3" class="Testng.groups"/>
+      </group> <!-- MI -->
+    </groups>
+    <test started-at="2022-07-15T09:04:59 IST" name="groupTest" finished-at="2022-07-15T09:04:59 IST" duration-ms="54">
+      <class name="Testng.groups">
+        <test-method signature="apple1()[pri:0, instance:Testng.groups@7adda9cc]" started-at="2022-07-15T09:04:59 IST" name="apple1" finished-at="2022-07-15T09:04:59 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apple1 -->
+        <test-method signature="apple2()[pri:0, instance:Testng.groups@7adda9cc]" started-at="2022-07-15T09:04:59 IST" name="apple2" finished-at="2022-07-15T09:04:59 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apple2 -->
+        <test-method signature="apple3()[pri:0, instance:Testng.groups@7adda9cc]" started-at="2022-07-15T09:04:59 IST" name="apple3" finished-at="2022-07-15T09:04:59 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apple3 -->
+        <test-method signature="mi1()[pri:0, instance:Testng.groups@7adda9cc]" started-at="2022-07-15T09:04:59 IST" name="mi1" finished-at="2022-07-15T09:04:59 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mi1 -->
+        <test-method signature="mi2()[pri:0, instance:Testng.groups@7adda9cc]" started-at="2022-07-15T09:04:59 IST" name="mi2" finished-at="2022-07-15T09:04:59 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mi2 -->
+        <test-method signature="mi3()[pri:0, instance:Testng.groups@7adda9cc]" started-at="2022-07-15T09:04:59 IST" name="mi3" finished-at="2022-07-15T09:04:59 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mi3 -->
+      </class> <!-- Testng.groups -->
+    </test> <!-- groupTest -->
+  </suite> <!-- Suite -->
+</testng-results>
